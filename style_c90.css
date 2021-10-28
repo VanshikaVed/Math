@@ -1,0 +1,48 @@
+.body{
+    background-color: greenyellow;
+}
+
+.heading{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    font-size: 47px;
+    background-color:lightgreen;
+    width: 500px;
+}
+
+#q_turn_phrase,
+#a_turn_phrase{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+}
+
+#output{
+    background-color: lightpink;
+    
+    width: 550px;
+    
+}
+
+#ans{
+    width: 210px;
+    height: 32px;
+}
+
+#ans_phrase{
+    font-size: 18px;
+}
+
+#ans_submit{
+    margin-bottom: 15px;
+}
+
+#question{
+    margin-top: 20px;
+}
+
+#btn_send_q{
+    height: 50px;
+    width: 100px;
+    font-size: 15px;
+    margin-bottom: 55px;
+}
